@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-This project was about designing a basic QR code component used to access the [Frontend Mentor](https://www.frontendmentor.io) website using basic HTML5 and CSS3 for build up and styling. 
+This project was about designing a basic QR code component used to access the Frontend Mentor(https://www.frontendmentor.io) website using basic HTML5 and CSS3 for build up and styling. 
 
 ### Screenshot
 
@@ -72,9 +72,9 @@ I intend to continue working on the responsiveness of the website and perhaps bu
 
 ## Author
 
-- Frontend Mentor - [FrancisL001](https://www.frontendmentor.io/profile/FrancisL0001)
-- GitHub - [FrancisL0001](https://github.com/FrancisL0001)
+- Frontend Mentor - FrancisL001(https://www.frontendmentor.io/profile/FrancisL0001)
+- GitHub - FrancisL0001(https://github.com/FrancisL0001)
 
 ## Acknowledgments
 
-I got a lot of help from [Josias](https://github.com/JosiasAurel) during the designing phases, especially relative positioning of items, pushing to GitHub and hosting on vercel. 
+I got a lot of help from Josias(https://github.com/JosiasAurel) during the designing phases, especially relative positioning of items, pushing to GitHub and hosting on vercel. 
