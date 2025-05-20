@@ -20,7 +20,7 @@ This project was about designing a basic QR code component used to access the Fr
 
 ### Screenshot
 
-![Screenshot sample](./screenshot.png)
+![Screenshot sample](screenshot.png)
 
 ### Links
 
