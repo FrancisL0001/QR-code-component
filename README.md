@@ -10,11 +10,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -22,7 +20,7 @@ This project was about designing a basic QR code component used to access the Fr
 
 ### Screenshot
 
-![](./screenshot.png)
+![Screenshot sample](./screenshot.png)
 
 ### Links
 
@@ -48,7 +46,7 @@ I also used this oportunity to get better with the git syntax and test Vercel to
 
 Nonetheless, I had a lot of difficulties with centralizing the QR code's box vertically and ended up going for introducing a padding above the box as follows:
 
-''''css
+```css
 .background{
     display: flex;
     flex-direction: column;
@@ -57,7 +55,7 @@ Nonetheless, I had a lot of difficulties with centralizing the QR code's box ver
     width: 90%;
     padding-top: 6%;
 }
-'''
+```
 
 I hope to eventually find a better way to position this type of components relative to any direction soon.
 
@@ -68,13 +66,12 @@ Overall, this proved just as challenging as it was interesting.
 
 I intend to continue working on the responsiveness of the website and perhaps build it to tackle different languages aside from english. 
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ## Author
 
-- Frontend Mentor - FrancisL001(https://www.frontendmentor.io/profile/FrancisL0001)
-- GitHub - FrancisL0001(https://github.com/FrancisL0001)
+- Frontend Mentor - [FrancisL001](https://www.frontendmentor.io/profile/FrancisL0001)
+- GitHub - [FrancisL0001](https://github.com/FrancisL0001)
 
 ## Acknowledgments
 
-I got a lot of help from Josias(https://github.com/JosiasAurel) during the designing phases, especially relative positioning of items, pushing to GitHub and hosting on vercel. 
+I got a lot of help from [Josias](https://github.com/JosiasAurel) during the designing phases, especially relative positioning of items, pushing to GitHub and hosting on [vercel](https://vercel.com/). 
