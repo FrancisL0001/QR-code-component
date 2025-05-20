@@ -48,7 +48,7 @@ I also used this oportunity to get better with the git syntax and test Vercel to
 
 Nonetheless, I had a lot of difficulties with centralizing the QR code's box vertically and ended up going for introducing a padding above the box as follows:
 
-''''css
+```css
 .background{
     display: flex;
     flex-direction: column;
@@ -57,7 +57,7 @@ Nonetheless, I had a lot of difficulties with centralizing the QR code's box ver
     width: 90%;
     padding-top: 6%;
 }
-'''
+```
 
 I hope to eventually find a better way to position this type of components relative to any direction soon.
 
@@ -67,8 +67,6 @@ Overall, this proved just as challenging as it was interesting.
 ### Continued development
 
 I intend to continue working on the responsiveness of the website and perhaps build it to tackle different languages aside from english. 
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ## Author
 
